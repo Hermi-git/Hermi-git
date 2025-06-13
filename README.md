@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Hermela Andargie
 🔭 I’m currently working on full-stack MERN projects and mobile apps with Jetpack Compose  <br>🤝 I’m looking to collaborate on open-source web/mobile projects  <br>🧠 I’m looking for help with improving my Flutter and Next.js skills  <br>🌱 I’m currently learning Next.js and Flutter  <br>💬 Ask me about React, Node.js, MongoDB, or Jetpack Compose  <br>⚡ Fun fact: I enjoy fixing bugs more than writing new features — debugging feels like solving a mystery!<br>
 
 
